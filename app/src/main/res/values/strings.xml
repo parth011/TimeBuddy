@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Time Buddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main">Notes</string>
+
+    <string name="title_activity_mon">Monday</string>
+    <string name="title_activity_tue">Tuesday</string>
+    <string name="title_activity_wed">Wednesday</string>
+    <string name="title_activity_thu">Thursday</string>
+    <string name="title_activity_fri">Friday</string>
+    <string name="title_activity_sat">Saturday</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+
+</resources>
